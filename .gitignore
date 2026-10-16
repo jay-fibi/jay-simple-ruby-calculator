@@ -1,0 +1,11 @@
+# Ruby
+*.gem
+*.rbc
+.bundle/
+.git/
+log/
+tmp/
+coverage/
+*.swp
+*.swo
+.DS_Store
